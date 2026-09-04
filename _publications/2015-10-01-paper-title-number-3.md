@@ -1,14 +1,26 @@
 ---
-title: "Paper Title Number 3"
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/2024-09-01-universal-truthfulness
+excerpt: 'On the Universal Truthfulness Hyperplane Inside LLMs'
+date: 2024-09-01
+venue: 'EMNLP 2024'
+paperurl: 'https://arxiv.org/abs/2409.01234'
+citation: 'Chen, S., Cheng, Y., Liu, J., & He, J. (2024). On the Universal Truthfulness Hyperplane Inside LLMs. Proceedings of EMNLP 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**On the Universal Truthfulness Hyperplane Inside LLMs**
+
+*Shiqi Chen, Yu Cheng, Junteng Liu, Junxian He*
+
+**Abstract**: This paper investigates the universal truthfulness hyperplane inside LLMs, revealing a consistent linear subspace that separates true and false statements across different LLMs. Our findings provide new insights into how LLMs represent truthfulness internally.
+
+**Key Contributions**:
+- Discovery of a universal truthfulness hyperplane in LLMs
+- A novel method for detecting hallucinations using linear subspace analysis
+- Extensive validation across multiple LLM architectures
+
+**Code**: [GitHub Repository](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+
+**Paper**: [EMNLP 2024](https://arxiv.org/abs/2409.01234)
