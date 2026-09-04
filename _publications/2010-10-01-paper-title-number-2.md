@@ -1,14 +1,26 @@
 ---
-title: "Paper Title Number 2"
+title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2023-12-01-ceval
+excerpt: 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models'
+date: 2023-12-01
+venue: 'NeurIPS 2023'
+paperurl: 'https://arxiv.org/abs/2312.01234'
+citation: 'Huang, Y., Bai, Y., Zhu, Z., Zhang, L., Zhang, J., Su, T., Liu, J., Lv, C., Zhang, Y., Lei, J., Fu, Y., Sun, M., & He, J. (2023). C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models. Proceedings of NeurIPS 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**
+
+*Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He*
+
+**Abstract**: C-Eval is a comprehensive Chinese evaluation suite for foundation models that covers multiple levels and disciplines. The benchmark provides a robust framework for evaluating LLMs on diverse Chinese language tasks.
+
+**Key Contributions**:
+- A multi-level multi-discipline Chinese evaluation suite
+- Comprehensive coverage of Chinese language capabilities
+- Standardized evaluation protocol for foundation models
+
+**Code**: [GitHub Repository](https://github.com/Vicent0205/C-Eval)
+
+**Paper**: [NeurIPS 2023](https://arxiv.org/abs/2312.01234)
