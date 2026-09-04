@@ -1,13 +1,26 @@
 ---
-title: "Paper Title Number 4"
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-06-08-vision4chart
+excerpt: 'On the Perception Bottleneck of VLMs for Chart Understanding'
+date: 2025-06-08
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/abs/2506.08112'
+citation: 'Zeng, W., Zhang, X., Wang, Y., Shan, Z., & He, J. (2025). On the Perception Bottleneck of VLMs for Chart Understanding. Arxiv preprint arXiv:2506.08112.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**On the Perception Bottleneck of VLMs for Chart Understanding**
+
+*Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He*
+
+**Abstract**: This paper investigates the perception bottleneck in Vision-Language Models (VLMs) for chart understanding. Through comprehensive analysis, we identify key limitations in how VLMs perceive and interpret chart visual elements, and propose novel approaches to address these challenges.
+
+**Key Contributions**:
+- Identification of perception bottlenecks in VLMs for chart understanding
+- A novel framework for improving VLM chart perception
+- Extensive evaluation on multiple chart understanding benchmarks
+
+**Code**: [GitHub Repository: Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+
+**Paper**: [Arxiv](https://arxiv.org/abs/2506.08112)
