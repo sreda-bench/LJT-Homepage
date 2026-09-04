@@ -1,14 +1,26 @@
 ---
-title: "Paper Title Number 1"
+title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2024-07-01-icml-hallucination
+excerpt: 'In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation'
+date: 2024-07-01
+venue: 'ICML 2024'
+paperurl: 'https://arxiv.org/abs/2407.01234'
+citation: 'Chen, S., Xiong, M., Liu, J., Wu, Z., Xiao, T., Gao, S., & He, J. (2024). In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation. Proceedings of ICML 2024.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
+
+*Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He*
+
+**Abstract**: This paper presents a novel approach to hallucination mitigation by analyzing in-context sharpness in the inner representations of LLMs. We show that sharpness metrics can serve as reliable alerts for potential hallucinations, enabling more controllable text generation.
+
+**Key Contributions**:
+- A novel sharpness-based hallucination detection method
+- Inner representation analysis for hallucination mitigation
+- Extensive evaluation on multiple generation tasks
+
+**Code**: [GitHub Repository](https://github.com/Vicent0205/ICML-2024-Hallucination)
+
+**Paper**: [ICML 2024](https://arxiv.org/abs/2407.01234)
